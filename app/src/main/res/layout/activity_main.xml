@@ -18,5 +18,20 @@
         android:text="TYPE ARRAY"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/buttonArrayList"
+        android:text="TYPE ARRAY LIST"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/buttonObject"
+        android:text="TYPE Object"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/buttonSerializable"
+        android:text="TYPE Serializable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
 
 </LinearLayout>
